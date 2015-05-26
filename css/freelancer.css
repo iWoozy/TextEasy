@@ -182,12 +182,12 @@ section h2 {
 section.success {
     color: #fff;
     background: #18bc9c;
-    font-size: 3em;
 }
 
 section.TeamYe {
     color: #2c3e50;
     background: #fff;
+    font-size: 3em;
 }
 section.success a,
 section.success a:hover,
