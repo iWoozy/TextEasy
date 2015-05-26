@@ -184,6 +184,10 @@ section.success {
     background: #18bc9c;
 }
 
+section.TeamYe {
+    color: #18bc9c;
+    background: #fff;
+}
 section.success a,
 section.success a:hover,
 section.success a:focus,
