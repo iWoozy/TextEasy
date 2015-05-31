@@ -270,7 +270,7 @@ CKEDITOR.config = {
 	 *
 	 * @cfg
 	 */
-	extraPlugins: 'config.extraPlugins = 'font';',
+	extraPlugins: '',
 
 	/**
 	 * A list of plugins that must not be loaded. This setting makes it possible
